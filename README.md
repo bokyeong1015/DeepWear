@@ -37,7 +37,7 @@ bash ./test_LkBk.sh
 
 
 
-## Datasets
+## Dataset Download
 We had planned to provide full scripts to download our experimental data but recognized some copyright issues on distributing the datasets in [1–5]. Please check the above notice and feel free to contact me.
 #### 1. "FsSyn+LkBk Dataset" for Testing (~340MB)
   - We selected person images from FsSyn [1] and top-clothing product images from LkBk [2].
